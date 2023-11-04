@@ -5,7 +5,6 @@ import { InputField } from "./InputField";
 export const Ukol5 = () => {
   return (
     <>
-      <h1>Úkol 5</h1>
       <p>Jméno: Patrik Pokoutník</p>
       <InputField label="Jméno" type="text" />
       <InputField label="Příjmení" type="text" />

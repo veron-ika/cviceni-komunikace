@@ -11,7 +11,6 @@ import { Product } from "./Product";
 export const Ukol3 = () => {
   return (
     <>
-      <h1>Úkol 3</h1>
       <p>
         Cena: <strong>0 Kč</strong>
       </p>

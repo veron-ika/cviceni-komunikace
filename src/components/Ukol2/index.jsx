@@ -10,7 +10,6 @@ export const Ukol2 = () => {
   
   return (
     <>
-      <h1>Úkol 2</h1>
       <p>
         <strong>{jmeno}</strong>
       </p>

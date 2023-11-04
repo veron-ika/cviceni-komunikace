@@ -14,7 +14,6 @@ import { InputField } from "./InputField";
 export const Ukol4 = () => {
   return (
     <>
-      <h1>Úkol 4</h1>
       <p>Jméno:</p>
       <InputField label="Jméno" type="text" />
     </>
