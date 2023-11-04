@@ -1,4 +1,4 @@
-# Cvičení: Efekty
+# Cvičení: Komunikace mezi komponentami
 
 1. Vytvořte si repozitář z této šablony.
 1. Naklonujte si jej k sobě na disk.
